@@ -80,6 +80,9 @@ Los modelos se alimentan de dos fuentes:
 
 > El archivo `data_unificada.xlsx` no se incluye en el repositorio. Puede reconstruirse a partir de las tres fuentes públicas referenciadas. Los datos originales del proyecto NexusFlex están sujetos a un acuerdo de confidencialidad con Nexus Energía.
 
+Nota sobre productores.xlsx: el archivo con la generación fotovoltaica (~48 MB) no se incluye en el repositorio por superar el límite de tamaño de GitHub. El resto de archivos de datos sí están incluidos. Consulta el README.md de la carpeta de datos para ver cómo obtener o reconstruir productores.xlsx.
+
+Los datos originales del proyecto NexusFlex están sujetos a un acuerdo de confidencialidad con Nexus Energía; todo el trabajo se valida con la base de datos pública alternativa descrita arriba.
 ---
 
 ## Configuración
